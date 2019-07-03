@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b411cb91abf0a5fcbfb444632c409f0",
+    "revision": "2e0732581cfe49366d62a14b58410bf3",
     "url": "/market1-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/market1-app/static/css/2.dc646829.chunk.css"
   },
   {
-    "revision": "829da773a79b7fd07381",
+    "revision": "838769d2f56024156a92",
     "url": "/market1-app/static/css/main.6fe004e0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/market1-app/static/js/2.95a6b332.chunk.js"
   },
   {
-    "revision": "829da773a79b7fd07381",
-    "url": "/market1-app/static/js/main.b9d90118.chunk.js"
+    "revision": "838769d2f56024156a92",
+    "url": "/market1-app/static/js/main.ccaa6daf.chunk.js"
   },
   {
     "revision": "987c52110871de073b9f",
